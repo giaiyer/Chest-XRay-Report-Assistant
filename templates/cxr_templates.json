@@ -1,0 +1,4 @@
+{
+  "default": "Patient Age: {age}\nSex: {sex}\nSymptoms: {symptoms}\nHistory: {history}\n\nFindings:\n{findings}\n\nImpression:\nBased on the above findings and clinical context, suggest likely diagnosis and next steps.",
+  "enhanced": "Chest X-Ray Report\n===================\n\nPatient Information:\n- Age: {age}\n- Sex: {sex}\n- Symptoms: {symptoms}\n- History: {history}\n\nFindings:\n{findings}\n\nImpression:\nPlease provide a concise, professional summary of the most likely diagnosis, relevant negatives, and suggested next steps. Use appropriate radiology terminology."
+} 
